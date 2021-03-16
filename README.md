@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=amanar)](https://github.com/mohouyizme/1337-readme)
+<!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=amanar)](https://github.com/mohouyizme/1337-readme)-->
 <!--
 **amanar-a/amanar-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
